@@ -1,14 +1,13 @@
 ﻿using UnityEditor;
 using UnityEngine;
-#if UNITY_POST_PROCESSING_STACK_V2
 using UnityEngine.Rendering.PostProcessing;
-#endif
 
 namespace SquareDino.ChackerContrast
 {
     class CheckerContrast : EditorWindow
     {
         private bool isHaveAsset;
+        private static GameObject go;
         
         #if UNITY_POST_PROCESSING_STACK_V2
             private PostProcessProfile profile;
