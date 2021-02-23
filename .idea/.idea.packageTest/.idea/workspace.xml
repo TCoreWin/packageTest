@@ -4,13 +4,8 @@
     <list default="true" id="64def7fd-f139-4ec0-b565-7e69b49d5d63" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.packageTest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.packageTest/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.packageTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.packageTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SquareDinoHCCore/Editor/CheckerContrast.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/SquareDinoHCCore/Editor/CheckerContrast.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SquareDinoHCCore/Editor/com.squaredino.hypercasualcore.editor.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/SquareDinoHCCore/Editor/com.squaredino.hypercasualcore.editor.asmdef" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SquareDinoHCCore/Scripts/com.squaredino.hypercasualcore.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/SquareDinoHCCore/Scripts/com.squaredino.hypercasualcore.asmdef" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewBehaviourScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewBehaviourScript.cs.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,26 +16,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/NewBehaviourScript.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-              <folding>
-                <marker date="1613871559554" expanded="false" signature="6:141" ph="..." />
-                <marker date="1613871559554" expanded="true" signature="189:382" ph="{...}" />
-                <marker date="1613871559554" expanded="true" signature="261:301" ph="{...}" />
-                <marker date="1613871559554" expanded="true" signature="359:380" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Plugins/SquareDinoHCCore/Editor/CheckerContrast.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <marker date="1614068399391" expanded="true" signature="6:152" ph="..." />
+                <marker date="1614068399391" expanded="false" signature="6:152" ph="..." />
                 <marker date="1614068399391" expanded="true" signature="197:4484" ph="{...}" />
                 <marker date="1614068399391" expanded="true" signature="240:4482" ph="{...}" />
                 <marker date="1614068399391" expanded="true" signature="665:906" ph="{...}" />
@@ -56,6 +36,15 @@
                 <marker date="1614068399391" expanded="true" signature="3191:4275" ph="{...}" />
                 <marker date="1614068399391" expanded="true" signature="4314:4476" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="43" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -89,7 +78,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/NewBehaviourScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/SquareDinoHCCore/Editor/CheckerContrast.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@3.0.1/PostProcessing/Runtime/PostProcessProfile.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@3.0.1/PostProcessing/Runtime/Effects/AmbientOcclusion.cs" root0="SKIP_HIGHLIGHTING" />
@@ -103,7 +91,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-353" />
     <option name="y" value="-16" />
     <option name="width" value="1936" />
@@ -171,12 +159,12 @@
       <workItem from="1613870020397" duration="11000" />
       <workItem from="1613870389388" duration="11195000" />
       <workItem from="1613882095213" duration="613000" />
-      <workItem from="1614068086903" duration="904000" />
+      <workItem from="1614068086903" duration="905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12723000" />
+    <option name="totallyTimeSpent" value="12724000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -188,7 +176,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
@@ -240,14 +228,8 @@
     <entry file="file://$PROJECT_DIR$/Assets/Editor/CheckerContrast.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/NewBehaviourScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="72">
           <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding>
-            <marker date="1613871559554" expanded="false" signature="6:141" ph="..." />
-            <marker date="1613871559554" expanded="true" signature="189:382" ph="{...}" />
-            <marker date="1613871559554" expanded="true" signature="261:301" ph="{...}" />
-            <marker date="1613871559554" expanded="true" signature="359:380" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -272,7 +254,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1614068399391" expanded="true" signature="6:152" ph="..." />
+            <marker date="1614068399391" expanded="false" signature="6:152" ph="..." />
             <marker date="1614068399391" expanded="true" signature="197:4484" ph="{...}" />
             <marker date="1614068399391" expanded="true" signature="240:4482" ph="{...}" />
             <marker date="1614068399391" expanded="true" signature="665:906" ph="{...}" />
@@ -288,6 +270,13 @@
             <marker date="1614068399391" expanded="true" signature="3191:4275" ph="{...}" />
             <marker date="1614068399391" expanded="true" signature="4314:4476" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="43" />
         </state>
       </provider>
     </entry>
